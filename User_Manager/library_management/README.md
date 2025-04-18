@@ -16,12 +16,7 @@ library-management/
 │       │   ├── RoleGroup.java
 │       │   └── Function.java
 │       └── Main.java
-├── pom.xml
-├── build.xml
-├── .classpath
-├── .project
-├── run.bat
-└── run.sh
+
 ```
 
 
